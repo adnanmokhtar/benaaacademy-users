@@ -1,0 +1,24 @@
+{
+    "name": "benaaacademy/users",
+    "description": "The users plugin of benaaacademy/platform",
+    "keywords": [
+        "framework",
+        "laravel",
+        "cms",
+        "plugins",
+        "platform",
+        "benaaacademy",
+        "users"
+    ],
+    "license": "MIT",
+    "type": "package",
+    "require": {
+        "benaaacademy/platform": "0.5.*",
+        "benaaacademy/roles": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Benaaacademy\\Users\\": "src"
+        }
+    }
+}
