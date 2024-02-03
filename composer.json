@@ -13,7 +13,7 @@
     "license": "MIT",
     "type": "package",
     "require": {
-        "benaaacademy/platform": "0.5.*",
+        "benaaacademy/platform": "1.0.*",
         "benaaacademy/roles": "*"
     },
     "autoload": {
